@@ -59,6 +59,10 @@ def assoc_toy(request, finch_id, toy_id):
   finch.toys.add(toy_id)
   return redirect('detail', finch_id=finch_id)
 
+def unassoc_toy(request, finch_id, toy_id):
+  Finch.objects.get(id=finch_id).toys.remove(toy_id)
+  return redirect('detail', finch_id=finch_id)
+
 class ToyList(ListView):
   model = Toy
 
