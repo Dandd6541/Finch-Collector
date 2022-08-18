@@ -7,7 +7,7 @@
 **Screenshots:**
 
 <img src = "https://imgur.com/SPAT8qb.png)">
-<img src = "https://imgur.com/SPAT8qb.png)">
+<img src = "https://imgur.com/o1jIByC.png)">
 <img src = "https://imgur.com/4boPao9.png)">
 
 
