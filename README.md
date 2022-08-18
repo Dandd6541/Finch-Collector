@@ -9,6 +9,7 @@ Application Title:
 
 
 **Technologies used:**
+
 -![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)<br>
 -![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)<br>
 -![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)<br>
